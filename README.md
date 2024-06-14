@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frederic-oudenot&label=Profile%20views&color=0e75b6&style=flat" alt="frederic-oudenot" /> </p>
 
-- 🛠️ I’m currently working on [Ocheerz](https://ocheerz.ovh)
+- 🛠️ Portfolio : [Portfolio](https://frederic-oudenot.netlify.app/) : Realeased - NEXTjs + Typescript + Redux + Tailwind Css
+
+- 🛠️ PianoGo : [PianoGo] : Realeased end of 2024 - Front-end : NEXTjs + Typescript + Material UI  / Back-end : Sails.js + MongoDB
+
+- 🛠️ O'cheerz: [Ocheerz](https://ocheerz.ovh) : Realsed - End of studies' project - Front-end : React + Typescript + SCSS  / Back-end : Javascript + PostgreSQL
 
 - 🛠️ I’m currently working on Shi-fu-mi (decision support)(incoming)
 
