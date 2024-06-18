@@ -7,7 +7,7 @@
 
 - 🛠️ PianoGo : [PianoGo] : Realeased end of 2024 - Front-end : NEXTjs + Typescript + Material UI  / Back-end : Sails.js + MongoDB
 
-- 🛠️ O'cheerz: [Ocheerz](https://ocheerz.ovh) : Realsed - End of studies' project - Front-end : React + Typescript + SCSS  / Back-end : Javascript + PostgreSQL
+- 🛠️ O'cheerz: [Ocheerz](https://ocheerz-front-5vmm.onrender.com/) : Realsed - End of studies' project - Front-end : React + Typescript + SCSS  / Back-end : Javascript + PostgreSQL
 
 - 🛠️ I’m currently working on Shi-fu-mi (decision support)(incoming)
 
